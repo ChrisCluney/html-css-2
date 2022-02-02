@@ -1,0 +1,115 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+
+
+
+
+#greyBar {
+    background-color: lightgray;
+    display: flex;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    top: 100px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 125px;
+    width: 1440px;
+}
+
+#blueSquare {
+    display: inline;
+    background-color: rgb(56, 113, 199);
+    height: 80px;
+    width: 80px;
+    margin-top: 18px;
+    margin-left: 20px;
+
+}
+
+#whiteBox {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    top: 100px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 325px;
+    width: 1440px;
+}
+#blueBox {
+    background-color: rgb(28, 144, 221);
+    display: flex;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    top: 100px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 225px;
+    width: 1440px;
+}
+
+#greenBox {
+    background-color: rgb(152, 228, 184);
+    display: flex;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    top: 100px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 225px;
+    width: 1440px;
+}
+#lightGreen {
+    background-color: rgb(159, 211, 149);
+    display: flex;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    top: 100px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 225px;
+    width: 1440px;
+}
+#yellowBox {
+    
+    background-color: rgb(218, 207, 108);
+    display: flex;
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    top: 100px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 225px;
+    width: 1440px;
+    
+}
+
+#question {
+    background-color: rgb(0, 0, 0);
+    /* display: flex; */
+    padding: 15px;
+    margin-left: 1330px;
+    margin-right: 10px;
+    margin-top: 1600px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    margin-top: 0px;
+    height: 70px;
+    width: 70px;
+    position: sticky;
+}
+
+
+
